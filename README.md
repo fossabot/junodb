@@ -3,6 +3,7 @@
 [![License](http://img.shields.io/:license-Apache%202-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 [![Build](https://github.com/paypal/junoDB/actions/workflows/juno_server_bin_build.yml/badge.svg?branch=main)](https://github.com/paypal/junoDB/actions/workflows/juno_server_bin_build.yml)
 [![Docker](https://github.com/paypal/junoDB/actions/workflows/juno_server_docker_build.yml/badge.svg?branch=main)](https://github.com/paypal/junoDB/actions/workflows/juno_server_docker_build.yml)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fjunodb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fjunodb?ref=badge_shield)
 
 
 ## What is JunoDB
@@ -312,3 +313,7 @@ $BUILDTOP/release-binary/tool/go/bin/go test -v
 script/deploy.sh stop
 ```
 <br>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fjunodb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fjunodb?ref=badge_large)
